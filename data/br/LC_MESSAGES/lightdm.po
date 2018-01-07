@@ -1,0 +1,124 @@
+# Breton translation for lightdm
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the lightdm package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lightdm\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-12-03 22:14+0000\n"
+"PO-Revision-Date: 2015-06-02 19:36+0000\n"
+"Last-Translator: Denis <Unknown>\n"
+"Language-Team: Breton <br@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-06-13 11:36+0000\n"
+"X-Generator: Launchpad (build 18097)\n"
+
+#: ../debian/config-error-dialog.sh:16
+#, sh-format
+msgid "Error found when loading $CONFIG_FILE:"
+msgstr "Fazi pa vo karget $CONFIG_FILE :"
+
+#: ../debian/config-error-dialog.sh:17
+msgid ""
+"As a result the session will not be configured correctly.\n"
+"You should fix the problem as soon as feasible."
+msgstr ""
+"Evel un disoc'h ne vo ket kefluniet  an estez dre reizh.\n"
+"Gwell eo deoc'h reizhañ ar gudenn an abretañ ar gwellañ."
+
+#. does not exist, so create it
+#: ../debian/guest-account.sh:68
+msgid "Guest"
+msgstr "Kouviad"
+
+#: ../debian/guest-session-auto.sh:31
+msgid "Temporary Guest Session"
+msgstr "Estez ar c'houviad"
+
+#: ../debian/guest-session-auto.sh:32
+msgid ""
+"All data created during this guest session will be deleted\n"
+"when you log out, and settings will be reset to defaults.\n"
+"Please save files on some external device, for instance a\n"
+"USB stick, if you would like to access them again later."
+msgstr ""
+"Pep tra e vez graet e-pad estez ar c'houviad a vo dilamet\n"
+"pa vez serret an estez ; arventennoù vo kaset da ziouer.\n"
+"Mar fell deoc'h mirout ho restroù, enrollit anezhe war un\n"
+"drobarzhell diavaez, da skouer ur vazhig USB."
+
+#: ../debian/guest-session-auto.sh:36
+msgid ""
+"Another alternative is to save files in the\n"
+"/var/guest-data folder."
+msgstr ""
+"Gallout a rit ivez enrollañ restroù\n"
+"en teuliad /var/guest-data"
+
+#. Help string for command line --config flag
+#: ../src/lightdm.c:1175
+msgid "Use configuration file"
+msgstr "Arverañ ar restr kefluniañ"
+
+#. Help string for command line --debug flag
+#: ../src/lightdm.c:1178
+msgid "Print debugging messages"
+msgstr "Diskouez ar c'hemennoù diveugañ"
+
+#. Help string for command line --test-mode flag
+#: ../src/lightdm.c:1181
+msgid "Run as unprivileged user, skipping things that require root access"
+msgstr "Loc'hañ evel un arveriad hep brient, lammet e vo traoù an ardead"
+
+#. Help string for command line --pid-file flag
+#: ../src/lightdm.c:1184
+msgid "File to write PID into"
+msgstr "Restr  e vez skrivet ar PID ennañ"
+
+#. Help string for command line --log-dir flag
+#: ../src/lightdm.c:1187
+msgid "Directory to write logs to"
+msgstr "Teuliad e vez skrivet ar c'herzhlevr ennañ"
+
+#. Help string for command line --run-dir flag
+#: ../src/lightdm.c:1190
+msgid "Directory to store running state"
+msgstr "Teuliad da mirout stad erounit ennañ"
+
+#. Help string for command line --cache-dir flag
+#: ../src/lightdm.c:1193
+msgid "Directory to cache information"
+msgstr "Teuliad da kuzhat titouroù ennañ"
+
+#. Help string for command line --show-config flag
+#: ../src/lightdm.c:1196
+msgid "Show combined configuration"
+msgstr "Diskouez ar c'hefluniañ kedaozet"
+
+#. Help string for command line --version flag
+#: ../src/lightdm.c:1199
+msgid "Show release version"
+msgstr "Diskouez handelv an ermaeziadenn"
+
+#. Arguments and description for --help test
+#: ../src/lightdm.c:1218
+msgid "- Display Manager"
+msgstr "- Ardoer ar skrammañ"
+
+#. Text printed out when an unknown command-line argument provided
+#: ../src/lightdm.c:1228
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "Loc'hañ '%s --help' evit skrammañ rollad dibarzhioù an arc'hadoù."
+
+#. Text printed out when an unknown command-line argument provided
+#: ../src/dm-tool.c:29
+#, c-format
+msgid ""
+"Run 'dm-tool --help' to see a full list of available command line options."
+msgstr ""
+"Loc'hañ 'dm-tool --help' da welet an holl dibarzhioù hegerz evit an arc'had."

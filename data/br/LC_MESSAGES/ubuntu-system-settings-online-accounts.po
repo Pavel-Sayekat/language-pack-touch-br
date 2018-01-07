@@ -1,0 +1,131 @@
+# Breton translation for ubuntu-system-settings-online-accounts
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the ubuntu-system-settings-online-accounts package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-system-settings-online-accounts\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-05-13 17:45+0300\n"
+"PO-Revision-Date: 2015-04-29 12:31+0000\n"
+"Last-Translator: Denis <Unknown>\n"
+"Language-Team: Breton <br@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-07-08 19:42+0000\n"
+"X-Generator: Launchpad (build 18115)\n"
+
+#: ../plugins/example/Main.qml:33
+msgid "User name"
+msgstr "Anv an arveriad"
+
+#: ../plugins/example/Main.qml:39
+msgid "Password"
+msgstr "Ger-tremen"
+
+#: ../plugins/module/DuplicateAccount.qml:31
+msgid "Duplicate account"
+msgstr ""
+
+#: ../plugins/module/DuplicateAccount.qml:32
+msgid "There is already an account created for this email address."
+msgstr ""
+
+#: ../plugins/module/DuplicateAccount.qml:37
+msgid "OK"
+msgstr ""
+
+#: ../plugins/module/ErrorItem.qml:37
+msgid "This service is not available right now. Try again later."
+msgstr ""
+
+#: ../plugins/module/ErrorItem.qml:44
+msgid "Try Again"
+msgstr ""
+
+#: ../plugins/module/OAuth.qml:120
+msgid "Loading…"
+msgstr "O kargañ..."
+
+#: ../plugins/module/OAuth.qml:159
+#: ../plugins/module/RemovalConfirmation.qml:43
+#: ../online-accounts-ui/qml/SignOnUiDialog.qml:91
+#: ../online-accounts-ui/qml/SignOnUiPage.qml:32
+msgid "Cancel"
+msgstr "Nullañ"
+
+#: ../plugins/module/Options.qml:36
+msgid "ID"
+msgstr "ID"
+
+#: ../plugins/module/Options.qml:48
+msgid "Remove account…"
+msgstr "Dilemel ar gont..."
+
+#: ../plugins/module/RemovalConfirmation.qml:32
+msgid "Remove account"
+msgstr "Dilemel ar gont"
+
+#: ../plugins/module/RemovalConfirmation.qml:33
+#, qt-format
+msgid ""
+"The %1 account will be removed only from your phone. You can add it again "
+"later."
+msgstr ""
+"Ar gont  %1 a vo dilamet diwar ho pellgomzer nemetken. Gallout a reoc'h "
+"adlakaat anezhi diwezhatoc'h."
+
+#: ../plugins/module/RemovalConfirmation.qml:38
+msgid "Remove"
+msgstr "Dilemel"
+
+#: ../plugins/module/ServiceSwitches.qml:33
+msgid "Access to this account:"
+msgstr "Mont d'ar gont-mañ :"
+
+#: ../system-settings-plugin/AccountsPage.qml:51
+msgid "Add account…"
+msgstr "Ouzhpennañ ur gont…"
+
+#: ../system-settings-plugin/AddAccountLabel.qml:27
+msgid ""
+"Storing account details here lets apps use the accounts without you having "
+"to sign in for each app."
+msgstr ""
+"Mirout munudoù ar gont amañ a lez an arloadoù da ober gant ar c'hontoù anez "
+"goulenn diganeoc'h kennaskañ evit pep arload."
+
+#: ../system-settings-plugin/MainPage.qml:32 ../.build/settings.js:1
+msgid "Accounts"
+msgstr "Kontoù"
+
+#: ../system-settings-plugin/NewAccountPage.qml:23
+msgid "Add account"
+msgstr "Ouzhpennañ ur gont"
+
+#: ../system-settings-plugin/NoAccountsPage.qml:36
+msgid "No accounts"
+msgstr "Kont ebet"
+
+#: ../system-settings-plugin/NoAccountsPage.qml:47
+msgid "Add account:"
+msgstr "Ouzhpennañ ur gont :"
+
+#: ../online-accounts-ui/qml/AuthorizationPage.qml:87
+#, qt-format
+msgid "wants to access your %2 account"
+msgstr ""
+
+#: ../online-accounts-ui/qml/AuthorizationPage.qml:131
+msgid "Allow"
+msgstr "Aotren"
+
+#: ../online-accounts-ui/qml/AuthorizationPage.qml:140
+msgid "Add another account…"
+msgstr "Ouzhpennañ ur gont all..."
+
+#: ../online-accounts-ui/qml/AuthorizationPage.qml:148
+msgid "Don't allow"
+msgstr "Nac'h"

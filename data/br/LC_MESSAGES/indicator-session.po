@@ -1,0 +1,152 @@
+# Breton translation for indicator-session
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the indicator-session package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-session\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 23:56+0000\n"
+"PO-Revision-Date: 2016-03-16 09:46+0000\n"
+"Last-Translator: Ken VanDine <ken.vandine@canonical.com>\n"
+"Language-Team: Breton <br@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-07-08 19:44+0000\n"
+"X-Generator: Launchpad (build 18115)\n"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:194
+#, c-format
+msgid "System, %s"
+msgstr "Reizhiad, %s"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:198
+msgid "System"
+msgstr "Reizhiad"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:332
+msgid "Guest"
+msgstr "Kouviad"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:457
+#, c-format
+msgid "%s Help…"
+msgstr ""
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:460
+msgid "About This Device…"
+msgstr ""
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:462
+msgid "About This Computer"
+msgstr "Diwar-benn an urzhiataer-mañ"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:470
+msgid "Desktop mode"
+msgstr ""
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:486
+msgid "System Settings…"
+msgstr "Arventennoù ar reizhiad..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:488
+msgid "Online Accounts…"
+msgstr "Kontoù enlinenn..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:691
+msgid "Start Screen Saver"
+msgstr "Lñsañ"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:699
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:715
+msgid "Switch Account…"
+msgstr "Cheñch kont..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:700
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:716
+msgid "Switch Account"
+msgstr "Cheñch kont"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:712
+msgid "Lock/Switch Account…"
+msgstr "Prennañ/cheñch kont..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:713
+msgid "Lock/Switch Account"
+msgstr "Prennañ/Cheñch kont"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:719
+msgid "Lock"
+msgstr "Prennañ"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:744
+msgid "Guest Session"
+msgstr "Estez ar c'houviad"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:821
+msgid "Log Out…"
+msgstr "Serriñ an estez..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:821
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:748
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:750
+msgid "Log Out"
+msgstr "Serriñ an estez"
+
+#: /build/indicator-session-4uPd2p/indicator-session-12.10.5+15.04.20160317/po/../src//service.c:839
+msgid "Suspend"
+msgstr "Lakaat da gousket"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:842
+msgid "Hibernate"
+msgstr "Goañviñ"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:847
+msgid "Restart…"
+msgstr "Adloc'hañ..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:847
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:780
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:782
+msgid "Restart"
+msgstr "Adloc'hañ"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:854
+msgid "Shut Down…"
+msgstr "Lazhañ..."
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//service.c:854
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:805
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:807
+msgid "Shut Down"
+msgstr "Lazhañ"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:742
+msgid "Are you sure you want to close all programs and log out?"
+msgstr ""
+"Fellout a ra deoc'h serriñ an holl goulevioù ha lazhañ an urzhiataer ?"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:743
+msgid ""
+"Some software updates won't be applied until the computer next restarts."
+msgstr ""
+
+#: /build/indicator-session-4uPd2p/indicator-session-12.10.5+15.04.20160317/po/../src//backend-dbus/actions.c:745
+#: /build/indicator-session-4uPd2p/indicator-session-12.10.5+15.04.20160317/po/../src//backend-dbus/actions.c:777
+#: /build/indicator-session-4uPd2p/indicator-session-12.10.5+15.04.20160317/po/../src//backend-dbus/actions.c:802
+msgid "Cancel"
+msgstr "Nullañ"
+
+#: /build/indicator-session-4uPd2p/indicator-session-12.10.5+15.04.20160317/po/../src//backend-dbus/actions.c:775
+msgid "Are you sure you want to close all programs and restart the computer?"
+msgstr ""
+"Ha fellout a ra deoc'h serriñ an holl brogrammoù hag adloc'hañ an urzhiataer "
+"?"
+
+#: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/po/../src//backend-dbus/actions.c:806
+msgid ""
+"Are you sure you want to close all programs and shut down the computer?"
+msgstr ""
+"Ha fellout a ra deoc'h serriñ an holl brogrammoù ha lazhañ an urzhiataer ?"

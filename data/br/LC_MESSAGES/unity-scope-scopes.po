@@ -1,0 +1,54 @@
+# Breton translation for unity-scope-scopes
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the unity-scope-scopes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity-scope-scopes\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-04-29 17:44+0100\n"
+"PO-Revision-Date: 2014-08-27 05:21+0000\n"
+"Last-Translator: Fohanno Thierry <thierry.fohanno@ofis-bzh.org>\n"
+"Language-Team: Breton <br@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-07-08 19:43+0000\n"
+"X-Generator: Launchpad (build 18115)\n"
+
+#: ../src/scopes-scope.cpp:206
+msgid "Featured"
+msgstr "Kinniget"
+
+#: ../src/scopes-scope.cpp:208
+msgid "Entertainment"
+msgstr "Dudi"
+
+#: ../src/scopes-scope.cpp:210
+msgid "Other"
+msgstr "Traoù all"
+
+#: ../src/scopes-scope.cpp:239 tmp/scopes.ini.in.in.h:1
+msgid "Scopes"
+msgstr "Kefluskerioù enklask"
+
+#: ../src/scopes-scope.cpp:431
+msgid "Description"
+msgstr "Deskrivadur"
+
+#: ../src/scopes-scope.cpp:438
+msgid "Search"
+msgstr "Klask"
+
+#: tmp/scopes.ini.in.in.h:2
+msgid ""
+"This is an Ubuntu search plugin that displays and allows searching available "
+"scopes."
+msgstr ""
+"Hemañ zo ul lugant enklask Ubuntu hag a ziskwel ar c'hefluskerioù enklask a "
+"zo kinniget."
+
+#: tmp/scopes.ini.in.in.h:3
+msgid "Search for scopes"
+msgstr "Klask kefluskerioù enklask"
